@@ -18,7 +18,7 @@ Esse projeto está sendo desenvolvido na imersão Imersão React da [**Alura**](
 
 ## 🚀 Deploy da aplicação
 
-[Aluratube](teste-one-weld.vercel.app/)
+[AluraTube](teste-one-weld.vercel.app/)
 
 ## 🏷️ Tecnologias
 <ul>
@@ -27,4 +27,4 @@ Esse projeto está sendo desenvolvido na imersão Imersão React da [**Alura**](
   <li>Styled Components</li>
 </ul>
 
-Desenvolvido por ❤️ by @mioranzabeatriz
+Desenvolvido ❤️ by @mioranzabeatriz
